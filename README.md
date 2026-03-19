@@ -61,7 +61,7 @@ Tenho me dedicado a construir uma base sólida em análise de dados, modelagem p
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📊 Projeto 1](https://github.com/[SEU_USUARIO]/projeto-1) | Breve descrição do projeto | `Python` `Pandas` `Sklearn` |
+| [📊 Wine Quality Classifier](https://github.com/maiap22/wine-quality-classifier) | Classificador binário de qualidade de vinhos | `Python` `Pandas` `Numpy` |
 | [🤖 Projeto 2](https://github.com/[SEU_USUARIO]/projeto-2) | Breve descrição do projeto | `TensorFlow` `Keras` |
 | [📈 Projeto 3](https://github.com/[SEU_USUARIO]/projeto-3) | Breve descrição do projeto | `Python` `Plotly` `SQL` |
 
