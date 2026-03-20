@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=./Gabriel%20Maia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Apaixonado+por+Machine+Learning+%F0%9F%A4%96;Explorando+Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Transformando+dados+em+insights+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Apaixonado+por+Data+Science+%F0%9F%93%8A;Explorando+Intelig%C3%AAncia+Artificial+%F0%9F%A7%A0;Transformando+dados+em+insights+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -62,7 +62,7 @@ Tenho me dedicado a construir uma base sólida em análise de dados, modelagem p
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📊 Wine Quality Classifier](https://github.com/maiap22/wine-quality-classifier) | Classificador binário de qualidade de vinhos | `Python` `Pandas` `Numpy` |
-| [🤖 Projeto 2](https://github.com/[SEU_USUARIO]/projeto-2) | Breve descrição do projeto | `TensorFlow` `Keras` |
+| [🤖 PLN News Analyzer](https://github.com/maiap22/pln-news-analyzer) | Sumarização e Análise de Sentimentos de Artigos| `Langchain` `APIs` `LLM` |
 | [📈 Projeto 3](https://github.com/[SEU_USUARIO]/projeto-3) | Breve descrição do projeto | `Python` `Plotly` `SQL` |
 
 ---
