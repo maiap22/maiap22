@@ -63,6 +63,8 @@ Tenho me dedicado a construir uma base sólida em análise de dados, modelagem p
 |--------|-----------|-------------|
 | [📊 Wine Quality Classifier](https://github.com/maiap22/wine-quality-classifier) | Classificador binário de qualidade de vinhos | `Python` `Pandas` `Numpy` |
 | [🤖 PLN News Analyzer](https://github.com/maiap22/pln-news-analyzer) | Sumarização e Análise de Sentimentos de Artigos| `Langchain` `APIs` `LLM` |
+| Projeto em andamento 🔨 - Churn Prediction| Previsão de churns e segmentação de clientes | `MLFlow` `Streamlit` `Python` |
+
 
 ---
 
